@@ -1,4 +1,4 @@
-<span color=red class="grav" > Kevin </span>
+<span style="background-color:red class="grav" > Kevin </span>
 
 <script src="http://gravityscript.googlecode.com/svn/trunk/throw.js"></script>
 ========
